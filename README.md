@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-required assignment for Dats Scientist's Toolbox
+required assignment for Data Scientist's Toolbox
